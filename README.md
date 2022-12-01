@@ -1,4 +1,4 @@
-#Single-cel RNA seq analysis (Seurat)
+# Single-cell RNA seq analysis of Dura mater immune cells(Seurat)
 
 
 Data SRA866994/SRS4545966 Dura mater (count tables) was retrieved from “PanglaoDB”: https://panglaodb.se/
