@@ -1,8 +1,7 @@
-# Single-cell RNA seq analysis of Dura mater immune cells(Seurat)
+# Single-cell RNA-seq analysis of Dura mater immune cells (Seurat)
 
 
 Data SRA866994/SRS4545966 Dura mater (count tables) was retrieved from “PanglaoDB”: https://panglaodb.se/
-
 
 
 References:
@@ -15,3 +14,9 @@ Hannah Van Hove, Liesbet Martens, Isabelle Scheyltjens, Karen De Vlaminck, Ana R
 Sebastiaan De Schepper, Gert Van Isterdael, Charlotte L. Scott, Jeroen Aerts, Geert Berx, Guy E. Boeckxstaens, Roosmarijn E. Vandenbroucke, 
 Lars Vereecke, Diederik Moechars, Martin Guilliams, Jo A. Van Ginderachter, Yvan Saeys and Kiavash Movahedi.A single-cell atlas of mouse brain 
 macrophages reveals unique transcriptional identities shaped by ontogeny and tissue environment. Nature Neuroscience, 2019.
+
+
+# Bulk RNA-seq analysis (edgeR)
+
+Finding Differentially Expressed genes in data from Gtex
+
